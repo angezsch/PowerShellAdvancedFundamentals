@@ -8,3 +8,5 @@ Git add .  - lägger till alla filer
 Git add helloworld.txt  - lägger till den filen
 Git commit -m 'message' - ta en snapshot
 Git push - lägger till din lokala kopia i git
+
+git branch - skapar en snapshot av ursprunliga 
